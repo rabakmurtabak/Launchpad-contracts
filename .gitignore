@@ -1,0 +1,17 @@
+
+.env
+
+bin
+artifacts
+build
+cache
+migrations
+migrations_
+node_modules
+
+/artifacts/
+/build/
+/cache/
+/migrations/
+/migrations_/
+/node_modules/
